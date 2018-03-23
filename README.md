@@ -1,2 +1,2 @@
 # django_local_library
-Library system website with django
+Local Library website using Django2.0
